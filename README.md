@@ -10,7 +10,7 @@ Desarrolladora FullStack freelance, actualmente diseñando y desarrollando aplic
 - 🌱 Aprendiendo constantemente sobre desarrollo FullStack y buenas prácticas de ingeniería de software
 - 📍 La Plata, Buenos Aires, Argentina
 - 📫 Contacto: florencia.lavie.dev@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/florencia-lavie/)] · [Portfolio(https://florlavie.github.io/Portfolio/)]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/florencia-lavie/) · [Portfolio](https://florlavie.github.io/Portfolio/)
 
 
 ## 🛠️ Skills
@@ -53,8 +53,7 @@ Ciclo completo de QA: definición de épicas, historias de usuario en formato Gh
 
 ## 📊 Estadísticas de GitHub
 
-![Florencia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorLavie&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorLavie&layout=compact)
+![Florencia's GitHub stats](https://github-readme-stats-git-master-anuraghazra1.vercel.app/api?username=FlorLavie&show_icons=true&theme=default)
 
 ## 🎓 Educación y certificaciones
 
