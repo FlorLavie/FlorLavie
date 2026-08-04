@@ -6,7 +6,7 @@
 
 Desarrolladora FullStack freelance, actualmente diseñando y desarrollando aplicaciones web, sistemas de gestión y páginas web a medida, cubriendo el proceso completo: relevamiento de necesidades del cliente, diseño de la solución, desarrollo frontend y backend, y deploy en producción. Estudiante avanzada de Analista Programador Universitario en la UNLP, con formación previa en Diseño en Comunicación Visual. Trabajé en relevamiento de requerimientos y documentación funcional (SRS, Historias de Usuario), colaborando en equipos ágiles desde el análisis hasta el desarrollo y testeo.
 
-- 💼 **Freelance FullStack Developer** — desarrollo de aplicaciones web, sistemas de gestión y páginas web, con frontend en React/TypeScript y backend en Node.js/Express o Java, bases de datos SQL (PostgreSQL/MySQL), y deploy en Vercel
+- 💼 **Freelance FullStack Developer** — desarrollo de aplicaciones web, sistemas de gestión y páginas web, con frontend en React/TypeScript y backend en Node.js/Express o Java, bases de datos SQL (PostgreSQL), y deploy en Vercel
 - 🌱 Aprendiendo constantemente sobre desarrollo FullStack y buenas prácticas de ingeniería de software
 - 📍 La Plata, Buenos Aires, Argentina
 - 📫 Contacto: florencia.lavie.dev@gmail.com
